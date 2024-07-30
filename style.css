@@ -1,0 +1,41 @@
+/* For index.html  */
+body {
+    background-color: rgba(0, 0, 0, 0.745);
+}
+
+#heading {
+    text-align: center;
+    font-size: 60px;
+    color: white;
+    text-decoration: underline;
+}
+
+.images {
+    height: 400px;
+    width: 400px;
+    margin-right: 80px;
+    border: 4px solid rgb(242, 56, 27);
+    display: inline-block;
+}
+
+#education {
+    display: inline;
+    margin-right: 23%;
+    margin-left: 9%;
+    font-size: 40px;
+    color: white;
+}
+
+#experience {
+    display: inline;
+    font-size: 40px;
+    color: white;
+}
+
+#project {
+    display: inline;
+    margin-right: 23%;
+    font-size: 40px;
+    color: white;
+}
+
